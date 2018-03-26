@@ -1,0 +1,23 @@
+body {
+/*   background-color : #e8eaf6; */
+  font-family: 'Megrim', cursive;
+  font-size : 1.75rem;
+}
+
+.container{
+  width: 420px !important;
+  height: 300px;
+  border-radius: 20px;
+  margin: 20px auto 0 auto;
+}
+
+.fixed-action-btn{
+top: 0;
+  left: 30%/*desired value*/
+}
+
+.box{
+  font-family: 'Black Ops One', cursive;
+  font-size: 1.75 rem;
+
+}
